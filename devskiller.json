@@ -1,0 +1,7 @@
+{
+  "readOnlyFiles" : ["gradlew", "gradlew.bat"],
+  "verification" : {
+    "testNamePatterns" : [".*verify_pack.*"],
+    "pathPatterns" : ["**src/test/**/verify_pack**"]
+  }
+}
